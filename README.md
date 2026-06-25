@@ -1,14 +1,8 @@
 <img width="3780" height="1890" alt="Welcome to my GitHub" src="https://github.com/user-attachments/assets/c1ce83d3-d697-45de-b927-618cc5f2fcf8" />
 
-<div align="center">
-
 ## 🧠 About Me
 
-</div>
-
-<br/>
-
-**CS undergrad** diving deep into the intersection of **Web3**, **AI**, and **security**. I build fullstack applications, write smart contracts, and poke at systems to understand how they break. Currently going down the blockchain rabbit hole — DeFi, dApps, on-chain logic, all of it.
+**CS undergrad.** I build fullstack apps, write smart contracts, and spend a lot of time figuring out how Web3 actually works under the hood. Currently focused on blockchain — DeFi, dApps, on-chain logic. Also into AI/ML on the side.
 
 > **"building the decentralized future, one block at a time."**
 
@@ -16,23 +10,17 @@
 
 <div align="center">
 
-| 🔗 Currently | 💡 Also Into | 🐍 Go-to Language |
+| 🔗 Currently | 💡 Also Into | 🐍 Go-to |
 |:---:|:---:|:---:|
 | Web3 & Blockchain | AI / ML | Python |
-| Smart Contracts | Cybersecurity | JavaScript / TypeScript |
-| DeFi Protocols | Fullstack Dev | Solidity |
+| Smart Contracts | Fullstack Dev | JavaScript / TypeScript |
+| DeFi Protocols | Open Source | Solidity |
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack
-
-</div>
-
-<br/>
 
 **⚡ Frontend**
 
@@ -66,23 +54,13 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-<div align="center">
-
-## 🤖 AI / ML &nbsp;&nbsp;·&nbsp;&nbsp; 🔐 Cybersecurity
-
-<br/>
+**🤖 AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
 
 ---
 
@@ -92,16 +70,16 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkaapatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e40c9&text_color=aaaaaa&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaapatra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkaapatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaapatra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaapatra&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaapatra&theme=tokyonight&hide_border=true&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkaapatra&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkaapatra&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=444444&point=ffffff&area=true&area_color=222222" />
 
 </div>
 
@@ -119,19 +97,12 @@
 
 ---
 
-<div align="center">
-
 ## 🎯 Currently Working On
-
-</div>
-
-<br/>
 
 ```
 🔗  Mastering Solidity & smart contract security
 🌐  Building a full dApp — frontend + contracts + backend
 🤖  Applying ML models to real-world datasets
-🔐  CTF competitions & learning offensive security
 📚  Contributing to open source Web3 projects
 ```
 
@@ -147,6 +118,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:111111,100:0d0d0d&height=120&section=footer" width="100%"/>
 
+</div>
 </div>
