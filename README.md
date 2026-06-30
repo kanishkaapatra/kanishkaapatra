@@ -117,8 +117,3 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:111111,100:0d0d0d&height=120&section=footer" width="100%"/>
-
-</div>
-</div>
