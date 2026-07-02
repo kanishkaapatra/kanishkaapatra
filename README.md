@@ -86,15 +86,6 @@
 ---
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanishkaapatra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/kanishkaapatra)
-
-</div>
-
 ---
 
 ## 🎯 Currently Working On
