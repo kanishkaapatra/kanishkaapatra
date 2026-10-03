@@ -142,10 +142,3 @@ A CS undergrad, specialising in **AI-integrated products** with a growing focus 
 
 </div>
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=555555&background=00000000&center=true&vCenter=true&width=600&lines=building+the+decentralized+future%2C+one+block+at+a+time." alt="footer" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:000000&height=120&section=footer" width="100%" />
-
-</div>
-</div>
