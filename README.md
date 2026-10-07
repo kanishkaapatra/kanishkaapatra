@@ -138,7 +138,8 @@ A CS undergrad, specialising in **AI-integrated products** with a growing focus 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=5B7FA6&background=00000000&center=true&vCenter=true&width=800&height=30&lines=building+the+decentralized+future%2C+one+block+at+a+time." alt="footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:5B7FA6&height=120&section=footer" width="100%" />
+<img width="734" height="245" alt="download (3)" src="https://github.com/user-attachments/assets/326fbfca-fafa-486e-baa2-5c76ab523e0f" />
+
 
 </div>
 <br/><br/>
