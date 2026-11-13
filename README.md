@@ -1,145 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=2500&pause=100000&color=6B8CAE&background=00000000&center=true&vCenter=true&width=900&height=100&letterSpacing=3px&lines=WELCOME+TO+MY+GITHUB" alt="Welcome to my GitHub" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=100000&color=3F5F86&background=00000000&center=true&vCenter=true&width=600&height=40&letterSpacing=6px&lines=AI+%C3%97+BLOCKCHAIN" alt="AI x Blockchain" />
-<br/>
-<a href="https://github.com/kanishkaapatra">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=8FAAC8&background=00000000&center=true&vCenter=true&width=760&height=40&lines=%3E+hi%2C+I%27m+Kanishkaa+Patra.;%3E+building+AI-integrated+products.;%3E+exploring+AI+%2B+blockchain+payments.;%3E+fast.+intelligent.+useful." alt="typing" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC1D6&height=220&section=header&text=Kanishkaa%20Patra&fontSize=56&fontColor=000000&fontAlignY=38&desc=Computer%20Science%20Undergraduate&descSize=22&descAlignY=60&descColor=000000" width="100%" alt="Kanishkaa Patra - Computer Science Undergraduate" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-5B7FA6?style=flat-square&labelColor=0B1D3A" />
-<img src="https://img.shields.io/badge/FOCUS-AI_%C3%97_BLOCKCHAIN-3F5F86?style=flat-square&labelColor=0B1D3A" />
-<img src="https://img.shields.io/badge/MODE-BUILD-2D4A73?style=flat-square&labelColor=0B1D3A" />
-<img src="https://img.shields.io/badge/HACKATHONS-YES-6B8CAE?style=flat-square&labelColor=0B1D3A" />
+<a href="https://www.linkedin.com/in/kanishkaapatra/"><img src="https://img.shields.io/badge/LinkedIn-FFC1D6?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+<a href="https://github.com/kanishkaapatra"><img src="https://img.shields.io/badge/GitHub-FFD1DC?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC1D6&height=55&section=header&text=ABOUT%20ME&fontSize=24&fontColor=000000&fontAlignY=50" width="100%" />
+</div>
+
+CS undergrad who builds end-to-end AI/ML pipelines, from model training to deployment, along with full-stack web applications. Comfortable with Python, JavaScript, TypeScript and working with LLM APIs.
 
 <br/>
 
-## `> whoami`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC1D6&height=55&section=header&text=SKILLS&fontSize=24&fontColor=000000&fontAlignY=50" width="100%" />
+</div>
 
-```bash
-$ cat /etc/kanishkaa.conf
-```
-
-A CS undergrad, specialising in **AI-integrated products** with a growing focus on **AI and blockchain**. I build end-to-end AI/ML pipelines, from model training to real-world deployment, plus full-stack platforms across FinTech and generative AI.
-
-> *Build things that are fast, intelligent, and solve real problems.*
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%"><h3>🧠 AI / ML</h3><sub>TensorFlow / Keras · U-Net &amp; CV<br/>GenAI APIs · LLM orchestration<br/>NLP · pandas</sub></td>
-<td align="center" width="33%"><h3>⛓️ BLOCKCHAIN</h3><sub>Crypto micropayments<br/>Web3-integrated product design</sub></td>
-<td align="center" width="33%"><h3>⚡ FULL-STACK</h3><sub>React.js · Node.js · Express.js<br/>REST APIs<br/>MongoDB · PostgreSQL</sub></td>
-</tr>
-</table>
+| Area | Skills |
+| :--- | :--- |
+| **AI / ML** | Deep Learning · Computer Vision (U-Net, image segmentation) · NLP · LLM integration & orchestration · GenAI APIs |
+| **Data** | Data analysis & preprocessing · Model evaluation · pandas |
+| **Full-Stack** | Frontend & backend development · REST API design · Database design |
+| **Other** | Crypto payment integration · Version control · API testing |
 
 <br/>
 
-## `> ./projects`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC1D6&height=55&section=header&text=TECH%20STACK&fontSize=24&fontColor=000000&fontAlignY=50" width="100%" />
+</div>
 
-<table>
-<tr>
-<th align="left">PROJECT</th>
-<th align="left">WHAT IT DOES</th>
-<th align="left">STACK</th>
-</tr>
-<tr>
-<td><b>Satellite Oil-Spill Detection</b></td>
-<td>End-to-end U-Net segmentation pipeline on SAR imagery (5 classes). <b>93.5% precision, 94.5% recall, 93.2% F1</b> on a held-out test set. Converts detected spill pixels from Copernicus KML metadata into GPS coordinates for AIS vessel-matching.</td>
-<td><code>Python</code> <code>TensorFlow/Keras</code> <code>U-Net</code> <code>Kaggle</code></td>
-</tr>
-<tr>
-<td><b>BriefOui</b></td>
-<td>Pay-per-use AI summarisation platform with cryptocurrency micropayments, enabling machine-readable transactions between users and AI services. Hackathon project.</td>
-<td><code>AI Integration</code> <code>Blockchain Micropayments</code></td>
-</tr>
-<tr>
-<td><b>CrambleEggo</b></td>
-<td>Multi-agent AI system that automates the freelance client lifecycle (requirements, quote, payment, delivery) in one conversational interface. Hackathon project.</td>
-<td><code>Multi-Agent AI</code> <code>LLM Orchestration</code> <code>Tool-use</code></td>
-</tr>
-<tr>
-<td><b>AI Financial Chatbot</b></td>
-<td>GenAI chatbot that turns dense SEC 10-K and 10-Q filings into plain-language insights. BCG GenAI simulation.</td>
-<td><code>Python</code> <code>pandas</code> <code>GenAI APIs</code></td>
-</tr>
-</table>
+**Languages**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFD1DC?style=for-the-badge&logo=typescript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css3&logoColor=000000)
 
-## `> cat ./interests`
+**AI / Data**
 
-```diff
-+ AI & Blockchain          pay-per-use AI, machine-readable crypto micropayments
-+ Agentic AI & Automation  multi-agent workflows, LLM orchestration, tool-use chaining
-+ FinTech & Product Design from financial filings to payment flows
-+ Hackathons               shipping fast under pressure
-+ Startups & Innovation
-```
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC1D6?style=for-the-badge&logo=tensorflow&logoColor=000000)
+![Keras](https://img.shields.io/badge/Keras-FFC1D6?style=for-the-badge&logo=keras&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-FFC1D6?style=for-the-badge&logo=pandas&logoColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFC1D6?style=for-the-badge&logo=jupyter&logoColor=000000)
+![Kaggle](https://img.shields.io/badge/Kaggle-FFC1D6?style=for-the-badge&logo=kaggle&logoColor=000000)
+
+**Frameworks & Databases**
+
+![React](https://img.shields.io/badge/React-FFB3CC?style=for-the-badge&logo=react&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FFB3CC?style=for-the-badge&logo=node.js&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-FFB3CC?style=for-the-badge&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFB3CC?style=for-the-badge&logo=mongodb&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB3CC?style=for-the-badge&logo=postgresql&logoColor=000000)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-FFD1DC?style=for-the-badge&logo=github&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-FFD1DC?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-FFD1DC?style=for-the-badge&logo=postman&logoColor=000000)
 
 <br/>
 
-## `> cat ./stack`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC1D6&height=55&section=header&text=PROJECTS&fontSize=24&fontColor=000000&fontAlignY=50" width="100%" />
+</div>
 
-**// AI / DATA**
-
-![Python](https://img.shields.io/badge/Python-0B1D3A?style=for-the-badge&logo=python&logoColor=6B8CAE)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1D3A?style=for-the-badge&logo=tensorflow&logoColor=6B8CAE)
-![Keras](https://img.shields.io/badge/Keras-0B1D3A?style=for-the-badge&logo=keras&logoColor=6B8CAE)
-![Pandas](https://img.shields.io/badge/Pandas-0B1D3A?style=for-the-badge&logo=pandas&logoColor=6B8CAE)
-![Kaggle](https://img.shields.io/badge/Kaggle-0B1D3A?style=for-the-badge&logo=kaggle&logoColor=6B8CAE)
-
-**// FULL-STACK**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1D3A?style=for-the-badge&logo=javascript&logoColor=6B8CAE)
-![HTML5](https://img.shields.io/badge/HTML5-0B1D3A?style=for-the-badge&logo=html5&logoColor=6B8CAE)
-![CSS3](https://img.shields.io/badge/CSS3-0B1D3A?style=for-the-badge&logo=css3&logoColor=6B8CAE)
-![React](https://img.shields.io/badge/React-0B1D3A?style=for-the-badge&logo=react&logoColor=6B8CAE)
-![Node.js](https://img.shields.io/badge/Node.js-0B1D3A?style=for-the-badge&logo=node.js&logoColor=6B8CAE)
-![Express](https://img.shields.io/badge/Express-0B1D3A?style=for-the-badge&logo=express&logoColor=6B8CAE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1D3A?style=for-the-badge&logo=mongodb&logoColor=6B8CAE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1D3A?style=for-the-badge&logo=postgresql&logoColor=6B8CAE)
-
-**// TOOLS**
-
-![Git](https://img.shields.io/badge/Git-0B1D3A?style=for-the-badge&logo=git&logoColor=6B8CAE)
-![GitHub](https://img.shields.io/badge/GitHub-0B1D3A?style=for-the-badge&logo=github&logoColor=6B8CAE)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1D3A?style=for-the-badge&logo=visualstudiocode&logoColor=6B8CAE)
-![Postman](https://img.shields.io/badge/Postman-0B1D3A?style=for-the-badge&logo=postman&logoColor=6B8CAE)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**Aesteria**](https://github.com/z3nic3/Aesteria) | Collaborative project. | `Jupyter Notebook` |
+| [**TradeWise**](https://github.com/archakbanerjee10/TradeWise-final) | Collaborative project. | `HTML` |
+| [**Crambleeggo**](https://github.com/kanishkaapatra/Crambleeggo) | Multi-agent AI system that automates the freelance client workflow (requirements, quote, payment, delivery) in one conversational interface. | `JavaScript` `LLM Orchestration` |
+| [**MandatePay**](https://github.com/kanishkaapatra/MandatePay) | TypeScript project. | `TypeScript` |
+| [**BriefOui**](https://github.com/kanishkaapatra/BRIEFOUI-) | Web app where users paste text, pay 1 USDC at checkout, and receive an AI-generated bullet-point summary. | `HTML` `LLM API` `Crypto Payments` |
 
 <br/>
 
 <div align="center">
 
-## `> stats --live`
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC1D6&height=55&section=header&text=GITHUB%20STATS&fontSize=24&fontColor=000000&fontAlignY=50" width="100%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkaapatra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6B8CAE&icon_color=5B7FA6&text_color=9FB3C8&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaapatra&layout=compact&hide_border=true&bg_color=0d1117&title_color=6B8CAE&text_color=9FB3C8" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaapatra&hide_border=true&background=0d1117&ring=5B7FA6&fire=6B8CAE&currStreakLabel=6B8CAE&sideLabels=9FB3C8&dates=6B7F96&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkaapatra&show_icons=true&hide_border=true&bg_color=FFE4EE&title_color=D6336C&icon_color=F06292&text_color=000000&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaapatra&layout=compact&hide_border=true&bg_color=FFE4EE&title_color=D6336C&text_color=000000" />
 
 <br/><br/>
 
-<a href="https://github.com/kanishkaapatra">
-<img src="https://img.shields.io/badge/GITHUB-kanishkaapatra-0B1D3A?style=for-the-badge&logo=github&logoColor=6B8CAE" />
-</a>
-<!-- add: LinkedIn link -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaapatra&hide_border=true&background=FFE4EE&ring=F48FB1&fire=E75480&currStreakLabel=D6336C&sideLabels=000000&dates=555555&currStreakNum=000000&sideNums=000000" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=5B7FA6&background=00000000&center=true&vCenter=true&width=800&height=30&lines=building+the+decentralized+future%2C+one+block+at+a+time." alt="footer" />
-
-<img width="734" height="245" alt="download (3)" src="https://github.com/user-attachments/assets/326fbfca-fafa-486e-baa2-5c76ab523e0f" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC1D6&height=120&section=footer" width="100%" />
 
 </div>
-<br/><br/>
