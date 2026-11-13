@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=KANISHKAA%20PATRA&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%C3%97%20BLOCKCHAIN%20%C2%B7%20building%20things%20that%20think%20and%20pay&descSize=18&descAlignY=62&descColor=BBBBBB" width="100%" alt="Kanishkaa Patra" />
+<img src="banner.png" width="100%" alt="welcome to kanishkaa's github" />
 
-<img src="assets/galaxy.png" width="360" alt="you are here. relax. it is all temporary." />
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/kanishkaapatra/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
 <a href="https://github.com/kanishkaapatra"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
@@ -42,7 +40,7 @@ I like the weird overlap where **machine learning meets crypto**: agents that ma
 </td>
 <td width="38%" align="center">
 
-<img src="assets/orb.png" width="100%" alt="hand holding a glowing orb" />
+<img src="star.png" width="100%" alt="star" />
 
 </td>
 </tr>
@@ -52,14 +50,36 @@ I like the weird overlap where **machine learning meets crypto**: agents that ma
 
 ## ⟡ SKILLS
 
-| | |
-| :--- | :--- |
-| **AI / ML** | Deep Learning · Computer Vision · U-Net · Image Segmentation · NLP · Model Training & Evaluation |
-| **LLMs** | LLM API Integration · Multi-Agent Orchestration · Prompt Design · GenAI Apps |
-| **Data** | Data Analysis · Preprocessing · Feature Prep · pandas |
-| **Full-Stack** | Frontend · Backend · REST API Design · Database Design · Auth & Validation |
-| **Web3 / Crypto** | Crypto Payment Integration · USDC Checkout Flows · Smart-Money Apps |
-| **Workflow** | Git · GitHub · API Testing · Notebook-based Experiments |
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**AI / ML**
+<br/>Deep Learning · Computer Vision · U-Net · Image Segmentation · NLP · Model Training & Evaluation
+
+**LLMs**
+<br/>LLM API Integration · Multi-Agent Orchestration · Prompt Design · GenAI Apps
+
+**Data**
+<br/>Data Analysis · Preprocessing · Feature Prep · pandas
+
+**Full-Stack**
+<br/>Frontend · Backend · REST API Design · Database Design · Auth & Validation
+
+**Web3 / Crypto**
+<br/>Crypto Payment Integration · USDC Checkout Flows
+
+**Workflow**
+<br/>Git · GitHub · API Testing · Notebook-based Experiments
+
+</td>
+<td width="45%" align="center">
+
+<img src="galaxy.png" width="100%" alt="you are here. relax. it is all temporary." />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -100,7 +120,7 @@ I like the weird overlap where **machine learning meets crypto**: agents that ma
 <tr>
 <td width="30%" align="center">
 
-<img src="assets/star.png" width="100%" alt="star" />
+<img src="chess.png" width="100%" alt="chess pieces" />
 
 </td>
 <td width="70%" valign="top">
@@ -130,8 +150,9 @@ Payments project in TypeScript. *(add one line on what it does)*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkaapatra&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=BBBBBB&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaapatra&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB" />
+<img src="https://img.shields.io/github/followers/kanishkaapatra?style=for-the-badge&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=000000&color=222222" />
+<img src="https://img.shields.io/github/stars/kanishkaapatra/Crambleeggo?style=for-the-badge&logo=github&logoColor=FFFFFF&label=CRAMBLEEGGO%20STARS&labelColor=000000&color=222222" />
+<img src="https://img.shields.io/github/last-commit/kanishkaapatra/Crambleeggo?style=for-the-badge&logo=git&logoColor=FFFFFF&label=LAST%20COMMIT&labelColor=000000&color=222222" />
 
 <br/><br/>
 
@@ -139,11 +160,14 @@ Payments project in TypeScript. *(add one line on what it does)*
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=kanishkaapatra&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
+
+<br/><br/>
+
 > *every commit is a small apology to my future self.*
 
 <br/>
 
-<img src="assets/galaxy.png" width="0" height="0" alt="" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 
 </div>
